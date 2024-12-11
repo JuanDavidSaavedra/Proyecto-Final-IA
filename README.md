@@ -11,5 +11,7 @@
 **Juan David Saavedra González - 2214111 - E2**
 
 
-## **Objetivo:** Analizar estadísticamente de forma descriptiva e inferencial los tiroteos en Estados Unidos, aplicando conceptos estudiados en la asignatura.
+## **Objetivo:**
+
+**Analizar estadísticamente de forma descriptiva e inferencial los tiroteos en Estados Unidos, aplicando conceptos estudiados en la asignatura.**
 
