@@ -1,6 +1,7 @@
 # Proyecto Final IA: Tiroteos en Estados Unidos
 
-![Banner Proyecto Final IA - Tiroteos en Estados Unidos](https://github.com/user-attachments/assets/df7fe30c-543a-44be-845a-20845a529a1e)
+
+![Colorful Typographic Independence Day Instagram Post (800 x 300 px)](https://github.com/user-attachments/assets/71c4f508-63f0-443f-9106-d945f4470b85)
 
 
 ## **Autores:**
