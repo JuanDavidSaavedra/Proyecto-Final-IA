@@ -4,9 +4,11 @@
 
 ## **Integrantes:**
 
- **Juan Pablo Ávila Quitián - 2214107 - E2,**
- **Jean Carlo Rodríguez Pico - 2214116 - F1,**
- **Juan David Saavedra González - 2214111 - E2**
+**Juan Pablo Ávila Quitián - 2214107 - E2,**
+
+**Jean Carlo Rodríguez Pico - 2214116 - F1,**
+
+**Juan David Saavedra González - 2214111 - E2**
 
 
 ## **Objetivo:** Analizar estadísticamente de forma descriptiva e inferencial los tiroteos en Estados Unidos, aplicando conceptos estudiados en la asignatura.
