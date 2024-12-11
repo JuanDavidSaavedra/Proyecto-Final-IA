@@ -36,7 +36,7 @@
 
 **Enlace del código: https://colab.research.google.com/drive/1gR2zRVJ2xfLH_nLFkjyzKntNi3K6pE9f?usp=sharing**
 
-**Enlace del video: -----------------------------------------------.**
+**Enlace del video: https://youtu.be/ncfsWYyDZb0**
 
 **Enlace del repositorio: https://github.com/JuanDavidSaavedra/Proyecto-Final-IA.git**
 
