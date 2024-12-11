@@ -34,10 +34,12 @@
 
 ## **Enlaces:**
 
-**Enlace del código: https://colab.research.google.com/drive/1aCyuy6it7D6cRGCgn7N5V6NxsAQAI77G?usp=sharing**
+**Enlace del código: https://colab.research.google.com/drive/1gR2zRVJ2xfLH_nLFkjyzKntNi3K6pE9f?usp=sharing**
 
 **Enlace del video: -----------------------------------------------.**
 
 **Enlace del repositorio: https://github.com/JuanDavidSaavedra/Proyecto-Final-IA.git**
 
 **PDF de las diapositivas:**
+
+[Presentación Proyecto FInal IA Tiroteos en Estados Unidos.pdf](https://github.com/user-attachments/files/18089604/Presentacion.Proyecto.FInal.IA.Tiroteos.en.Estados.Unidos.pdf)
