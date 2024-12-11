@@ -23,7 +23,7 @@
 
 **A continuación, se presenta el link de descarga de nuestro Dataset.**
 
-**Enlace del Dataset: enlace de la carpeta donde está el Dataset.**
+**Enlace del Dataset: https://drive.google.com/drive/folders/1DBtceUKHwVjjZ2jqdGGWWF0R4CIYUMYk?usp=sharing**
 
 
 ## **Modelos:**
@@ -33,7 +33,7 @@
 
 ## **Enlaces:**
 
-**Enlace del código: enlace de la copia del notebook (sólo lectura).**
+**Enlace del código: https://colab.research.google.com/drive/1aCyuy6it7D6cRGCgn7N5V6NxsAQAI77G?usp=sharing**
 
 **Enlace del video: -----------------------------------------------.**
 
