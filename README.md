@@ -34,6 +34,9 @@
 ## **Enlaces:**
 
 **Enlace del código: enlace de la copia del notebook (sólo lectura).**
+
 **Enlace del video: -----------------------------------------------.**
-**Enlace del repositorio: -----------------------------------------.**
+
+**Enlace del repositorio: https://github.com/JuanDavidSaavedra/Proyecto-Final-IA.git**
+
 **Enlace de la presentación: https://proyectofinalloteriasantander.my.canva.site/presentaci-n-proyecto-final-ia-tiroteos-en-estados-unidos**
