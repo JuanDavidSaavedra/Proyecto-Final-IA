@@ -7,7 +7,7 @@
 
 **Juan Pablo Ávila Quitián - 2214107 - E2,**
 
-**Jean Carlo Rodríguez Pico - 2214116 - F1,**
+**Jean Carlo Pico Rodríguez - 2214116 - F1,**
 
 **Juan David Saavedra González - 2214111 - E2**
 
