@@ -39,4 +39,4 @@
 
 **Enlace del repositorio: https://github.com/JuanDavidSaavedra/Proyecto-Final-IA.git**
 
-**Enlace de la presentación: https://proyectofinalloteriasantander.my.canva.site/presentaci-n-proyecto-final-ia-tiroteos-en-estados-unidos**
+**PDF de las diapositivas:**
