@@ -23,7 +23,7 @@
 
 **A continuación, se presenta el link de descarga de nuestro Dataset.**
 
----
+**Enlace del Dataset: enlace de la carpeta donde está el Dataset.**
 
 
 ## **Modelos:**
